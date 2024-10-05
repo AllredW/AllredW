@@ -3,7 +3,7 @@
  # William Allred
  I'm a full-stack developer with a background in computer science and theatre arts. While attempting to find work as an actor over the past several years in the Central Florida area, I went to school developing a coding skillset to support myself. I have blended a knowledge of back-end database implementation and management, with an eye for aesthetics in front-end design and construction.
 
- Let me help make your next application shine, the next start of the internet.
+ Let me help make your next application shine, the next star of the internet.
 
 ## My Tech Stack:
   ### MongoDb, Express, React, Node, Apollo/GraphQL
